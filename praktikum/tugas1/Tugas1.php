@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php 
     // NRP : 203040040
     // Nama : Fammy Oktariva Setiadi
@@ -60,4 +59,3 @@
     </tr>
 <?php endfor; ?>
 </table>
->>>>>>> 
