@@ -89,3 +89,12 @@
     </table>
 </body>
 </html>
+<!-- 
+<?php 
+    for($i = 5; $i > 0; $i--) {
+        for( $y = 1; $y <= $i; $y++) {
+            echo $i;
+        }
+        echo "<br>";
+    }
+?> -->
