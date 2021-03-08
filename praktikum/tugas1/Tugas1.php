@@ -27,8 +27,3 @@
         <?php endfor; ?> 
     </tr>
 <?php endfor; ?>
-<<<<<<< HEAD
-</table>
-=======
-</table>
->>>>>>> a7be9637e594822c59ba66a0c8a8eed0dfa10a93
