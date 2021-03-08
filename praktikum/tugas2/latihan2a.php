@@ -9,6 +9,7 @@
         return "<div class=\"$style1 $style2\">$tulisan</div>";
     }
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
