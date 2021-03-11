@@ -8,7 +8,7 @@
     function tumpukanBola($tumpukan){
         for($i = 1; $i <= $tumpukan; $i++){
             for ($j=1; $j <= $i; $j++){
-                echo "<div class=\"bola\">$i</div>";
+                echo "<div class='bola'>$i</div>";
             }
         echo "<br>";
         } 
