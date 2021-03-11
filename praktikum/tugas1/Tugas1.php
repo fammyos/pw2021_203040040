@@ -26,4 +26,8 @@
             <?php endif; ?>
         <?php endfor; ?> 
     </tr>
+<<<<<<< HEAD
 <?php endfor; ?>
+=======
+<?php endfor; ?>
+>>>>>>> cb224d846600de68466ce5773c6d32a8fb288a10
