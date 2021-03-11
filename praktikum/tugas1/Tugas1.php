@@ -13,7 +13,6 @@
 
 </head>
 <body>
-
 <table width="250px" cellspacing="5px" border="1px">
 <?php for( $baris = 1; $baris <= 6; $baris++ ) : ?>
     <tr>
