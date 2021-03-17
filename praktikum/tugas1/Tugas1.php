@@ -13,7 +13,6 @@
 
 </head>
 <body>
-
 <table width="250px" cellspacing="5px" border="1px">
 <?php for( $baris = 1; $baris <= 6; $baris++ ) : ?>
     <tr>
@@ -26,8 +25,4 @@
             <?php endif; ?>
         <?php endfor; ?> 
     </tr>
-<<<<<<< HEAD
 <?php endfor; ?>
-=======
-<?php endfor; ?>
->>>>>>> cb224d846600de68466ce5773c6d32a8fb288a10
