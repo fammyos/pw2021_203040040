@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(49, 49, 49);
+}
+
+.flat-button {
+    color: orange;
+}
+
+.flat-button:hover {
+    color: black;
+}
+
+.card-content {
+    cursor: pointer;
+}
