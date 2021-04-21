@@ -5,12 +5,6 @@
 ?>
 
 <?php 
-    // NRP : 203040040
-    // Nama : Fammy Oktariva Setiadi
-    // Shift Praktikum : Jum'at Pukul 10.00
-?>
-
-<?php 
     // menghubungkan dengan file php lainnya
     require 'php/functions.php' ;
 
